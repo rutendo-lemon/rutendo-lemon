@@ -9,7 +9,7 @@
 ## 🎯 About Me
 I’m a **Mathematics & Statistics student** building a career at the intersection of **Data Science, AI Engineering, and Solutions Architecture**.  
 
-I’m passionate about designing **intelligent, scalable systems** that leverage **data and cloud technologies** to solve complex challenges, including:
+I’m passionate about designing **intelligent, scalable systems** that leverage **data and cloud technologies** to solve complex challenges, especially in:  
 
 - Healthcare  
 - Renewable Energy  
@@ -21,34 +21,24 @@ I’m passionate about designing **intelligent, scalable systems** that leverage
 
 ---
 
+## 🚀 Current Focus
+I am actively developing skills in:
+
+- **Data Analysis & Statistics**  
+- **Machine Learning & AI**  
+- **Scalable System & Cloud Architecture**  
+
+I am growing as an **AI Engineer**, implementing real-world AI solutions, with the long-term goal of becoming a **Solutions Architect**, designing robust systems integrating AI across industries.
+
+---
+
 ## 💡 Projects & Ventures
+I am the **Founder of [Lemon-R](https://datascienceportfol.io/rutendo)**, a tech venture focused on AI-powered and data-driven solutions.  
 
-I am the **Founder of [Lemon-R](https://datascienceportfol.io/rutendo)**, focusing on AI-powered and data-driven solutions.  
+Current projects:  
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-
-<!-- Project Card 1 -->
-<div style="border:1px solid #ddd; border-radius:10px; padding:1rem; width:300px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3>AI-powered Smart Kitchen Screen</h3>
-  <p>Seamless hub providing personalized cooking assistance and automating tasks.</p>
-  <a href="https://github.com/rutendo-lemon/smart-kitchen" target="_blank">View Repo</a>
-</div>
-
-<!-- Project Card 2 -->
-<div style="border:1px solid #ddd; border-radius:10px; padding:1rem; width:300px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3>Capstone Projects</h3>
-  <p>Applying AI to healthcare, renewable energy, EVs, road safety, aviation, agriculture, and space tech.</p>
-  <a href="https://github.com/rutendo-lemon/capstone-projects" target="_blank">View Repo</a>
-</div>
-
-<!-- Project Card 3 -->
-<div style="border:1px solid #ddd; border-radius:10px; padding:1rem; width:300px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3>Data Visualizations & ML Models</h3>
-  <p>Predictive analytics and actionable insights through machine learning models.</p>
-  <a href="https://github.com/rutendo-lemon/data-ml-models" target="_blank">View Repo</a>
-</div>
-
-</div>
+- **AI-powered Smart Kitchen Screen**: Integrated hub providing personalized cooking assistance and automating tasks.  
+- **Capstone & Independent Projects**: Applying AI to healthcare, renewable energy, electric vehicles, road safety, aviation, agriculture, and space tech.  
 
 > Visit my portfolio for more: [datascienceportfol.io/rutendo](https://datascienceportfol.io/rutendo)
 
@@ -75,4 +65,6 @@ I am the **Founder of [Lemon-R](https://datascienceportfol.io/rutendo)**, focusi
 ---
 
 ## 💡 Fun Fact
-> I’m driven by solving **real-world challenges with data**—from making roads safer to improving healthcare, renewable energy, and beyond.
+> I’m driven by solving **real-world challenges with data**—from making roads safer to improving healthcare systems, renewable energy, and beyond.
+
+---
